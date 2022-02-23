@@ -1,4 +1,4 @@
-# Expanding Cards
+# Rotating Navigation
 This project is a simple Rotating Navigation.
 
 ## Technologies
